@@ -23,5 +23,3 @@ What you’ll learn:
 ✅ Real-world use cases for Data Engineers
 
 ✅ …and MUCH MOREEEE 
-
-## **YOUTUBE VIDEO LINK - ** https://youtu.be/71MW5WeHdz8?si=D0_ywfQ3YlN5l5Bp
